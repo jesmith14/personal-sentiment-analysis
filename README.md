@@ -23,4 +23,4 @@ To get the visualizations, run the functions in the Data Exploration file. This 
 ### Step 5:
 To run the machine learning algorithms on your data, run the functions in the Machine Learning file. 
 
-This is just the beginnings of this project. Eventually, I'd like to make it more transparent and portable by creating a python package for FB sentiment analysis. If you have any questions or would like to reach out to me about my project, feel free to email me at jsmit167@calpoly.edu.
+This is just the beginnings of this project. Eventually, I'd like to make it more transparent and portable by creating a python package for FB sentiment analysis. If you have any questions or would like to reach out to me about my project, feel free to email me at jessiejsmith01@gmail.com.
